@@ -88,9 +88,9 @@ export default function LoginPage() {
           </div>
 
           <div className="max-w-md">
-            <h1 className="text-4xl font-bold mb-4">Welcome to RideXtra Admin Panel</h1>
+            <h1 className="text-4xl font-bold mb-4">Welcome to Glidr Admin Panel</h1>
             <p className="text-lg text-indigo-200 mb-8">
-              Secure access for authorized Ride App administrators only. Protect your credentials — 
+              Secure access for authorized Glidr App administrators only. Protect your credentials — 
               contact support if you encounter any issues.
             </p>
             <div className="flex items-center space-x-2 text-indigo-200">
@@ -102,7 +102,7 @@ export default function LoginPage() {
 
         <div className="z-10">
           <p className="text-indigo-300 text-sm">
-            © {new Date().getFullYear()} RideXtra. All rights reserved.
+            © {new Date().getFullYear()} Glidr. All rights reserved.
           </p>
         </div>
 
